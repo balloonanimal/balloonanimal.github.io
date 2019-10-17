@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 14:53:58 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is a Second Test Article</title>
+      <link>http://example.org/post/test2/</link>
+      <pubDate>Thu, 17 Oct 2019 14:53:58 -0400</pubDate>
+      
+      <guid>http://example.org/post/test2/</guid>
+      <description>Arcu cursus vitae congue mauris rhoncus. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Pharetra massa massa ultricies mi quis hendrerit dolor. Et magnis dis parturient montes nascetur. Nulla facilisi nullam vehicula ipsum. Pellentesque diam volutpat commodo sed. Nunc scelerisque viverra mauris in aliquam sem fringilla. Ultricies tristique nulla aliquet enim. Egestas diam in arcu cursus euismod quis viverra. Feugiat in ante metus dictum. Nec ultrices dui sapien eget mi proin sed.</description>
+    </item>
+    
+    <item>
+      <title>This is the First Test Article</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Fri, 21 Jun 2019 14:53:58 -0400</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer. Erat velit scelerisque in dictum non. Netus et malesuada fames ac turpis egestas. Viverra suspendisse potenti nullam ac tortor. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Ultrices vitae auctor eu augue. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>But enough about me, thank you for taking the time to check out my website! This is a place where I try to put all (or at least some) of my completed projects so that other people can see them. I also try to write a little bit on the blog here, though I can&amp;rsquo;t make any promises about the consistency of quality from post to post. What I&amp;rsquo;m interested in writing about varies wildly from month to month, so there is very little cohesion in theme.</description>
+    </item>
+    
+  </channel>
+</rss>
