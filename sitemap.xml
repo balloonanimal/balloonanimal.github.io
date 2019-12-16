@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>balloonanimal.github.io/</loc>
+    <loc>https://balloonanimal.github.io/</loc>
     <lastmod>2019-10-17T14:53:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>balloonanimal.github.io/post/</loc>
+    <loc>https://balloonanimal.github.io/post/</loc>
     <lastmod>2019-10-17T14:53:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>balloonanimal.github.io/post/test2/</loc>
+    <loc>https://balloonanimal.github.io/post/test2/</loc>
     <lastmod>2019-10-17T14:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>balloonanimal.github.io/post/test/</loc>
+    <loc>https://balloonanimal.github.io/post/test/</loc>
     <lastmod>2019-06-21T14:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>balloonanimal.github.io/categories/</loc>
+    <loc>https://balloonanimal.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>balloonanimal.github.io/tags/</loc>
+    <loc>https://balloonanimal.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>balloonanimal.github.io/about/</loc>
+    <loc>https://balloonanimal.github.io/about/</loc>
   </url>
   
 </urlset>
