@@ -1,41 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://balloonanimal.github.io/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balloonanimal.github.io/projects/chess-julia/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balloonanimal.github.io/projects/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balloonanimal.github.io/posts/</loc>
     <lastmod>2019-10-17T14:53:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://balloonanimal.github.io/post/</loc>
-    <lastmod>2019-10-17T14:53:58-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://balloonanimal.github.io/post/test2/</loc>
+    <loc>https://balloonanimal.github.io/posts/test2/</loc>
     <lastmod>2019-10-17T14:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://balloonanimal.github.io/post/test/</loc>
+    <loc>https://balloonanimal.github.io/posts/test/</loc>
     <lastmod>2019-06-21T14:53:58-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://balloonanimal.github.io/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://balloonanimal.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://balloonanimal.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://balloonanimal.github.io/about/</loc>
   </url>
   
 </urlset>
